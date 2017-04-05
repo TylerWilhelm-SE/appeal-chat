@@ -4,13 +4,8 @@
 	"description": "",
 	"main": "index.js",
 	"scripts": {
-<<<<<<< HEAD:package.json
 		"start": "node server/server.js",
-		"test": echo \"Error: no test specified\" && exit 1
-=======
-		"start": "node server/server.js"
-		
->>>>>>> Init commit:server/package.json
+		"test": "echo \"Error: no test specified\" && exit 1"
 	},
 	"engines":{
 	"node": "6.10.0"
