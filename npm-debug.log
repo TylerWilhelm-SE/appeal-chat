@@ -1,8 +1,5 @@
 0 info it worked if it ends with ok
-1 verbose cli [ '/usr/local/bin/node',
-1 verbose cli   '/usr/local/bin/npm',
-1 verbose cli   'install',
-1 verbose cli   'express' ]
+1 verbose cli [ '/usr/local/bin/node', '/usr/local/bin/npm', 'i', 'node' ]
 2 info using npm@3.10.10
 3 info using node@v6.10.0
 4 silly loadCurrentTree Starting
@@ -24,7 +21,7 @@
 11 verbose stack     at FSReqWrap.readFileAfterClose [as oncomplete] (fs.js:442:12)
 12 verbose cwd /Users/tylerwilhelm/Desktop/appeal-chat
 13 error Darwin 15.6.0
-14 error argv "/usr/local/bin/node" "/usr/local/bin/npm" "install" "express"
+14 error argv "/usr/local/bin/node" "/usr/local/bin/npm" "i" "node"
 15 error node v6.10.0
 16 error npm  v3.10.10
 17 error file /Users/tylerwilhelm/Desktop/appeal-chat/package.json
