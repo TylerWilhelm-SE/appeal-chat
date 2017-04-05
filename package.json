@@ -1,0 +1,23 @@
+{
+	"name": "appeal-chat",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+<<<<<<< HEAD:package.json
+		"start": "node server/server.js",
+		"test": echo \"Error: no test specified\" && exit 1
+=======
+		"start": "node server/server.js"
+		
+>>>>>>> Init commit:server/package.json
+	},
+	"engines":{
+	"node": "6.10.0"
+	},
+	"author": "",
+	"license": "",
+	"dependencies": {
+	"express": "^4.15.2"
+	}
+}
